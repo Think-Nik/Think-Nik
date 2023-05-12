@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" width="100"/>
+    <img src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" width="400"/>
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/nikhilthaware">
