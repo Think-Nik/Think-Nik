@@ -76,11 +76,11 @@ Always ready to learn new things.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Think-Nik&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Think-Nik&theme=monokai&hide_border=true&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Think-Nik&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Think-Nik&theme=monokai&hide_border=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
